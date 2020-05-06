@@ -6,7 +6,7 @@ int main() {
 
 int numero;
 
-cout <<"ingresa un numero porfavor";
+cout <<"ingresa un numero porfavor ";
 cin >> numero;
 
 cout << numero;
